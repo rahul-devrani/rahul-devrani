@@ -1,7 +1,7 @@
 # Hello, I'm Rahul Devrani! 👋
 
 ## About Me
-- 🎓 I'm a first-year student at Graphic Era University.
+- 🎓 I'm a second-year student at Graphic Era University.
 - 💻 Currently exploring programming languages like C, Java, and Python.
 - 🌐 Venturing into web development with HTML and CSS.
 - 🤖 Excited about AI and DS, exploring machine learning, NLP, and computer vision.
