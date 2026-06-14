@@ -14,38 +14,6 @@
 ![AWS](https://img.shields.io/badge/AWS-BA7517?style=flat&logo=amazon-aws&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-7F77DD?style=flat&logo=scikit-learn&logoColor=white)
 
----
-
-## A few things I've built
-
-**Store Intelligence System** &nbsp;`YOLOv8` `ByteTrack` `FastAPI` `OpenCV` `Docker`
-
-Real-time retail analytics from CCTV — footfall, dwell time, queue depth, anomaly detection. Multi-camera Re-ID so the system knows where visitors go across the entire store. Sub-200ms latency.
-
----
-
-**Liver Disease Prediction** &nbsp;`PyCaret` `Scikit-Learn` `Feature Engineering`
-
-End-to-end ML pipeline on clinical data. SMOTE balancing + ensemble learning → 93.86% classification accuracy for identifying high-risk patients.
-
----
-
-**OSA Healthcare Research** &nbsp;`Pandas` `Statistical Modeling` `NFHS-5 · LASI`
-
-Analyzed 600K+ records to forecast Obstructive Sleep Apnoea prevalence in India till 2100. Co-authored SSRN preprint · under peer review.
-
----
-
-## Quick numbers
-
-| | |
-|---|---|
-|  NCAT 2026 | 99.53 percentile |
-|  LeetCode | Rating 1732 · Top 11% · 192+ problems |
-|  AWS Jam 2026 | Rank 51 / 520 |
-|  Research | SSRN preprint · under peer review |
-
----
 
 ## GitHub stats
 
