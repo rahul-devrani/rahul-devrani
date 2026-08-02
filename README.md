@@ -2,7 +2,7 @@
 
 <p>
   ML engineer in the making. I build things with computer vision, work on healthcare data, and occasionally solve puzzles on LeetCode at 2am.<br>
-  3rd year · CSE (AI & DS) · Graphic Era University, Dehradun
+  4th year · CSE (AI & DS) · Graphic Era University, Dehradun
 </p>
 
 ![Python](https://img.shields.io/badge/Python-1D9E75?style=flat&logo=python&logoColor=white)
